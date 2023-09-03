@@ -1,0 +1,2 @@
+# Clrter
+For CCColorCollector
